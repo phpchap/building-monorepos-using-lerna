@@ -1,6 +1,6 @@
 {
   "name": "front-end",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "author": "Nirmalya Ghosh <nirmalya.email@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -10,9 +10,9 @@
     "export": "next export"
   },
   "dependencies": {
+    "components": "^1.0.1",
     "next": "9.3.2",
     "react": "16.13.0",
-    "react-dom": "16.13.0",
-    "components": "0.0.1"
+    "react-dom": "16.13.0"
   }
 }
